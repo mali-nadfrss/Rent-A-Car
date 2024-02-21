@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="ec9802c847a00210ce121a2f316d43b9" label="Testing table" max_length="40" name="x_1298283_rent_a_c_testing_table" type="collection">
-        <element label="Testingcol" max_length="40" name="testingcol" type="string"/>
-    </element>
-</database>

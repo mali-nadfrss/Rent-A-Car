@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Copy of Honda City">0ac68c78472002106b581af2e16d43e5</sc_cat_item>
+        <sc_category display_value="Sedan">cc74e3d447a84210ce121a2f316d4320</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-21 09:24:09</sys_created_on>
+        <sys_id>42c608b8472002106b581af2e16d43ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sedan.Copy of Honda City</sys_name>
+        <sys_package display_value="Rent A Car" source="x_1298283_rent_a_c">802342c8472002106b581af2e16d43a1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rent A Car">802342c8472002106b581af2e16d43a1</sys_scope>
+        <sys_update_name>sc_cat_item_category_42c608b8472002106b581af2e16d43ef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-21 09:24:09</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Rent A Car">802342c8472002106b581af2e16d43a1</application>
+        <file_path/>
+        <instance_id>62e514d1db32b114caf99027c5961908</instance_id>
+        <instance_name>dev226507</instance_name>
+        <name>sc_cat_item_category_42c608b8472002106b581af2e16d43ef</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Copy of Honda City">0ac68c78472002106b581af2e16d43e5</sc_cat_item><sc_category display_value="Sedan">cc74e3d447a84210ce121a2f316d4320</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-21 09:24:09</sys_created_on><sys_id>42c608b8472002106b581af2e16d43ef</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Sedan.Copy of Honda City</sys_name><sys_package display_value="Rent A Car" source="x_1298283_rent_a_c">802342c8472002106b581af2e16d43a1</sys_package><sys_policy/><sys_scope display_value="Rent A Car">802342c8472002106b581af2e16d43a1</sys_scope><sys_update_name>sc_cat_item_category_42c608b8472002106b581af2e16d43ef</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-21 09:24:09</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>239679391</payload_hash>
+        <record_name>Sedan.Copy of Honda City</record_name>
+        <reverted_from/>
+        <source>5a4dce04476002106b581af2e16d4365</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-21 09:24:09</sys_created_on>
+        <sys_id>86c608b8472002106b581af2e16d43f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18dcafac86d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-21 09:24:09</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>cac608b8012002103b5d66eabf5e50f1</update_guid>
+        <update_guid_history>cac608b8012002103b5d66eabf5e50f1:239679391</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Sedan.Copy of Honda City">34f60cb8472002106b581af2e16d433e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-21 09:24:53</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>2897deb5f9c54c4191ec730c3024efc1</sys_id>
+        <sys_metadata>42c608b8472002106b581af2e16d43ef</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sedan.Copy of Honda City</sys_name>
+        <sys_package display_value="Rent A Car" source="x_1298283_rent_a_c">802342c8472002106b581af2e16d43a1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Rent A Car">802342c8472002106b581af2e16d43a1</sys_scope>
+        <sys_scope_delete display_value="">784e910fd96a4dfab076c1be54ed1784</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_42c608b8472002106b581af2e16d43ef</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_42c608b8472002106b581af2e16d43ef">86c608b8472002106b581af2e16d43f2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-21 09:24:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

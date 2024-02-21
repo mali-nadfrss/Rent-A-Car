@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_email_template">
+    <sysevent_email_template action="DELETE">
+        <collection>incident</collection>
+        <email_layout display_value="Employee notification layout">9d3d6f8777823010f088a0e89e5a997f</email_layout>
+        <message/>
+        <message_html/>
+        <message_list/>
+        <message_text><![CDATA[add some text again here]]></message_text>
+        <name>test template</name>
+        <sms_alternate/>
+        <subject>test</subject>
+        <sys_class_name>sysevent_email_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-19 10:33:30</sys_created_on>
+        <sys_id>2f438ec8472002106b581af2e16d43f7</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>test template</sys_name>
+        <sys_package display_value="Rent A Car" source="x_1298283_rent_a_c">802342c8472002106b581af2e16d43a1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rent A Car">802342c8472002106b581af2e16d43a1</sys_scope>
+        <sys_update_name>sysevent_email_template_2f438ec8472002106b581af2e16d43f7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-19 10:39:25</sys_updated_on>
+        <sys_version>2</sys_version>
+    </sysevent_email_template>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Rent A Car">802342c8472002106b581af2e16d43a1</application>
+        <file_path/>
+        <instance_id>62e514d1db32b114caf99027c5961908</instance_id>
+        <instance_name>dev226507</instance_name>
+        <name>sysevent_email_template_2f438ec8472002106b581af2e16d43f7</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sysevent_email_template"&gt;&lt;sysevent_email_template action="INSERT_OR_UPDATE"&gt;&lt;collection&gt;incident&lt;/collection&gt;&lt;email_layout display_value="Employee notification layout"&gt;9d3d6f8777823010f088a0e89e5a997f&lt;/email_layout&gt;&lt;message/&gt;&lt;message_html/&gt;&lt;message_list/&gt;&lt;message_text&gt;&lt;![CDATA[add some text again here]]&gt;&lt;/message_text&gt;&lt;name&gt;test template&lt;/name&gt;&lt;sms_alternate/&gt;&lt;subject&gt;test&lt;/subject&gt;&lt;sys_class_name&gt;sysevent_email_template&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-02-19 10:33:30&lt;/sys_created_on&gt;&lt;sys_id&gt;2f438ec8472002106b581af2e16d43f7&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;test template&lt;/sys_name&gt;&lt;sys_package display_value="Rent A Car" source="x_1298283_rent_a_c"&gt;802342c8472002106b581af2e16d43a1&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Rent A Car"&gt;802342c8472002106b581af2e16d43a1&lt;/sys_scope&gt;&lt;sys_update_name&gt;sysevent_email_template_2f438ec8472002106b581af2e16d43f7&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-02-19 10:39:25&lt;/sys_updated_on&gt;&lt;sys_version&gt;2&lt;/sys_version&gt;&lt;/sysevent_email_template&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1933036819</payload_hash>
+        <record_name>test template</record_name>
+        <reverted_from/>
+        <source>fd1486c8472002106b581af2e16d43b3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-19 10:39:25</sys_created_on>
+        <sys_id>95d48ac8472002106b581af2e16d438f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18dc0f2f92b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-19 10:39:25</sys_updated_on>
+        <type>Email Template</type>
+        <update_guid>8dd48ac8582002108cb10870a1e6398e</update_guid>
+        <update_guid_history>8dd48ac8582002108cb10870a1e6398e:-1933036819,ae73c6c86f2002102f549e36cbfc5e95:-1417449864</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-21 09:29:10</sys_created_on>
+        <sys_db_object display_value="" name="sysevent_email_template">sysevent_email_template</sys_db_object>
+        <sys_id>574ace09abcf41f288f98402b36f4091</sys_id>
+        <sys_metadata>2f438ec8472002106b581af2e16d43f7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test template</sys_name>
+        <sys_package display_value="Rent A Car" source="x_1298283_rent_a_c">802342c8472002106b581af2e16d43a1</sys_package>
+        <sys_parent display_value="Incident">8ef778397db1311076daf29f52070d0e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Rent A Car">802342c8472002106b581af2e16d43a1</sys_scope>
+        <sys_scope_delete display_value="">784e910fd96a4dfab076c1be54ed1784</sys_scope_delete>
+        <sys_update_name>sysevent_email_template_2f438ec8472002106b581af2e16d43f7</sys_update_name>
+        <sys_update_version display_value="sysevent_email_template_2f438ec8472002106b581af2e16d43f7">95d48ac8472002106b581af2e16d438f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-21 09:29:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
