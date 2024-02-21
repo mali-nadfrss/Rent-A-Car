@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <misc>5</misc>
+        <order>100</order>
+        <published_ref/>
+        <question display_value="Colour">1ec608b8472002106b581af2e16d43f5</question>
+        <rec_misc>1</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-21 09:24:11</sys_created_on>
+        <sys_id>e2c648b8472002106b581af2e16d4348</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Blue</sys_name>
+        <sys_package display_value="Rent A Car" source="x_1298283_rent_a_c">802342c8472002106b581af2e16d43a1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rent A Car">802342c8472002106b581af2e16d43a1</sys_scope>
+        <sys_update_name>question_choice_e2c648b8472002106b581af2e16d4348</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-21 09:24:11</sys_updated_on>
+        <text>Blue</text>
+        <value>Blue</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=e2c648b8472002106b581af2e16d4348"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>5</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>e2c648b8472002106b581af2e16d4348</id>
+        <parent/>
+        <reference_amount>5</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-21 09:24:11</sys_created_on>
+        <sys_id>eac648b8472002106b581af2e16d4349</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-21 09:24:11</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>1</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>e2c648b8472002106b581af2e16d4348</id>
+        <parent/>
+        <reference_amount>1</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-21 09:24:11</sys_created_on>
+        <sys_id>62c648b8472002106b581af2e16d4349</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-21 09:24:11</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>
