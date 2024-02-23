@@ -8,13 +8,13 @@
         <checked_out/>
         <cost>0</cost>
         <custom_cart/>
-        <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
+        <delivery_plan/>
         <delivery_plan_script/>
         <delivery_time>1970-01-03 00:00:00</delivery_time>
         <description/>
         <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
-        <flow_designer_flow/>
+        <flow_designer_flow display_value="SedanCarTaskCreation">db882324472c8210ce121a2f316d43ca</flow_designer_flow>
         <fulfillment_automation_level>unspecified</fulfillment_automation_level>
         <group/>
         <hide_sp>false</hide_sp>
@@ -64,14 +64,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-02-20 12:27:26</sys_created_on>
         <sys_id>aee6e3d847a84210ce121a2f316d43cc</sys_id>
-        <sys_mod_count>11</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_name>Hyundai Verna</sys_name>
         <sys_package display_value="Rent A Car" source="x_1298283_rent_a_c">802342c8472002106b581af2e16d43a1</sys_package>
         <sys_policy/>
         <sys_scope display_value="Rent A Car">802342c8472002106b581af2e16d43a1</sys_scope>
         <sys_update_name>sc_cat_item_aee6e3d847a84210ce121a2f316d43cc</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-02-21 09:23:37</sys_updated_on>
+        <sys_updated_on>2024-02-22 07:18:03</sys_updated_on>
         <taxonomy_topic/>
         <template/>
         <template_manager_roles/>

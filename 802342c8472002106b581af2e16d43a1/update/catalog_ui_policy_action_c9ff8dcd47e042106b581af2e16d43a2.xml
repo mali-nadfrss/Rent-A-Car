@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="XUV 700">0ac68c78472002106b581af2e16d43e5</catalog_item>
+        <catalog_variable>IO:aec648b8472002106b581af2e16d433a</catalog_variable>
+        <cleared>true</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-22 09:22:29</sys_created_on>
+        <sys_id>c9ff8dcd47e042106b581af2e16d43a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>starttime</sys_name>
+        <sys_package display_value="Rent A Car" source="x_1298283_rent_a_c">802342c8472002106b581af2e16d43a1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rent A Car">802342c8472002106b581af2e16d43a1</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_c9ff8dcd47e042106b581af2e16d43a2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-22 09:22:29</sys_updated_on>
+        <table/>
+        <ui_policy display_value="start date must be future date">a6bf49cd47e042106b581af2e16d43fa</ui_policy>
+        <variable>starttime</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+</record_update>
