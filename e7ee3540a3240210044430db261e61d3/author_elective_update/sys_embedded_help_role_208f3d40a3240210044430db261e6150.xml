@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="DELETE">
+        <order>1000</order>
+        <role display_value="sn_rent_a_car.test_user" name="sn_rent_a_car.test_user">e88f3d40a3240210044430db261e614e</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-19 10:16:10</sys_created_on>
+        <sys_id>208f3d40a3240210044430db261e6150</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e88f3d40a3240210044430db261e614e</sys_name>
+        <sys_package display_value="tes-A-Car" source="sn_rent_a_car">e7ee3540a3240210044430db261e61d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="tes-A-Car">e7ee3540a3240210044430db261e61d3</sys_scope>
+        <sys_update_name>sys_embedded_help_role_208f3d40a3240210044430db261e6150</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-19 10:16:10</sys_updated_on>
+    </sys_embedded_help_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="tes-A-Car">e7ee3540a3240210044430db261e61d3</application>
+        <file_path/>
+        <instance_id>0f66a5ad95333110958b85ee3f0dcb40</instance_id>
+        <instance_name>glide_db_dump</instance_name>
+        <name>sys_embedded_help_role_208f3d40a3240210044430db261e6150</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role"><sys_embedded_help_role action="INSERT_OR_UPDATE"><order>1000</order><role display_value="sn_rent_a_car.test_user" name="sn_rent_a_car.test_user">e88f3d40a3240210044430db261e614e</role><sys_class_name>sys_embedded_help_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-19 10:16:10</sys_created_on><sys_id>208f3d40a3240210044430db261e6150</sys_id><sys_mod_count>0</sys_mod_count><sys_name>e88f3d40a3240210044430db261e614e</sys_name><sys_package display_value="tes-A-Car" source="sn_rent_a_car">e7ee3540a3240210044430db261e61d3</sys_package><sys_policy/><sys_scope display_value="tes-A-Car">e7ee3540a3240210044430db261e61d3</sys_scope><sys_update_name>sys_embedded_help_role_208f3d40a3240210044430db261e6150</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-19 10:16:10</sys_updated_on></sys_embedded_help_role></record_update>]]></payload>
+        <payload_hash>78347632</payload_hash>
+        <record_name>e88f3d40a3240210044430db261e614e</record_name>
+        <reverted_from/>
+        <source>72f4ad2195333110958b85ee3f0dcb2f</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-01-17 17:24:03</sys_created_on>
+        <sys_id>4d00e26ea3280210044430db261e6122</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18d18738f380000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Embedded Help Role Priority</type>
+        <update_guid>0d00e26ec9280210286434580d1f3322</update_guid>
+        <update_guid_history>0d00e26ec9280210286434580d1f3322:78347632</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-27 07:03:01</sys_created_on>
+        <sys_db_object display_value="" name="sys_embedded_help_role">sys_embedded_help_role</sys_db_object>
+        <sys_id>a49f873601fd415bb219cb87b6613499</sys_id>
+        <sys_metadata>208f3d40a3240210044430db261e6150</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e88f3d40a3240210044430db261e614e</sys_name>
+        <sys_package display_value="tes-A-Car" source="sn_rent_a_car">e7ee3540a3240210044430db261e61d3</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="tes-A-Car">e7ee3540a3240210044430db261e61d3</sys_scope>
+        <sys_scope_delete display_value="">35ee1f27f7c448989d87e054e3bd2590</sys_scope_delete>
+        <sys_update_name>sys_embedded_help_role_208f3d40a3240210044430db261e6150</sys_update_name>
+        <sys_update_version display_value="sys_embedded_help_role_208f3d40a3240210044430db261e6150">4d00e26ea3280210044430db261e6122</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-27 07:03:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="test">996e85cca3200210044430db261e6160</application>
+        <filter/>
+        <name>tests</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>sn_rent_a_car.test_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-19 10:16:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>608f7580a3240210044430db261e619f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>tests</sys_name>
+        <sys_package display_value="Rent-A-Car" source="sn_rent_a_car">e7ee3540a3240210044430db261e61d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rent-A-Car">e7ee3540a3240210044430db261e61d3</sys_scope>
+        <sys_update_name>sys_ui_module_608f7580a3240210044430db261e619f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-19 10:16:10</sys_updated_on>
+        <table>sn_rent_a_car_test</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="tes-A-Car">e7ee3540a3240210044430db261e61d3</application>
+        <file_path/>
+        <instance_id>0f66a5ad95333110958b85ee3f0dcb40</instance_id>
+        <instance_name>glide_db_dump</instance_name>
+        <name>sys_ui_module_608f7580a3240210044430db261e619f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="test">996e85cca3200210044430db261e6160</application><filter/><name>tests</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>sn_rent_a_car.test_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-19 10:16:10</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>608f7580a3240210044430db261e619f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>tests</sys_name><sys_package display_value="Rent-A-Car" source="sn_rent_a_car">e7ee3540a3240210044430db261e61d3</sys_package><sys_policy/><sys_scope display_value="Rent-A-Car">e7ee3540a3240210044430db261e61d3</sys_scope><sys_update_name>sys_ui_module_608f7580a3240210044430db261e619f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-19 10:16:10</sys_updated_on><table>sn_rent_a_car_test</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>1919419813</payload_hash>
+        <record_name>tests</record_name>
+        <reverted_from/>
+        <source>e13fb540a3240210044430db261e61c4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-19 10:16:10</sys_created_on>
+        <sys_id>248f7580a3240210044430db261e61a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18dc0ddb1a30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-19 10:16:10</sys_updated_on>
+        <type>Module</type>
+        <update_guid>288f75805724021042842fb3a846e1a0</update_guid>
+        <update_guid_history>288f75805724021042842fb3a846e1a0:1919419813</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-27 07:03:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>30ff8cb6061143bf8aab2f633111d361</sys_id>
+        <sys_metadata>608f7580a3240210044430db261e619f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>tests</sys_name>
+        <sys_package display_value="tes-A-Car" source="sn_rent_a_car">e7ee3540a3240210044430db261e61d3</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="tes-A-Car">e7ee3540a3240210044430db261e61d3</sys_scope>
+        <sys_scope_delete display_value="">35ee1f27f7c448989d87e054e3bd2590</sys_scope_delete>
+        <sys_update_name>sys_ui_module_608f7580a3240210044430db261e619f</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_608f7580a3240210044430db261e619f">248f7580a3240210044430db261e61a1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-27 07:03:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
