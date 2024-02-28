@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="DELETE">
+        <operation>delete</operation>
+        <source_scope display_value="Rent A Car">802342c8472002106b581af2e16d43a1</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-28 04:30:22</sys_created_on>
+        <sys_id>f3968bf247600210c989b5f4316d4355</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>table delete</sys_name>
+        <sys_package display_value="Rent A Car" source="x_1298283_rent_a_c">802342c8472002106b581af2e16d43a1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rent A Car">802342c8472002106b581af2e16d43a1</sys_scope>
+        <sys_update_name>sys_scope_privilege_f3968bf247600210c989b5f4316d4355</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-28 04:30:22</sys_updated_on>
+        <target_name>table delete</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>sys_db_object</target_type>
+    </sys_scope_privilege>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Rent A Car">802342c8472002106b581af2e16d43a1</application>
+        <file_path/>
+        <instance_id>d8b4c8dd1b12bd1c39a54089bd4bcb8a</instance_id>
+        <instance_name>dev201946</instance_name>
+        <name>sys_scope_privilege_f3968bf247600210c989b5f4316d4355</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>delete</operation><source_scope display_value="Rent A Car">802342c8472002106b581af2e16d43a1</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-28 04:30:22</sys_created_on><sys_id>f3968bf247600210c989b5f4316d4355</sys_id><sys_mod_count>0</sys_mod_count><sys_name>table delete</sys_name><sys_package display_value="Rent A Car" source="x_1298283_rent_a_c">802342c8472002106b581af2e16d43a1</sys_package><sys_policy/><sys_scope display_value="Rent A Car">802342c8472002106b581af2e16d43a1</sys_scope><sys_update_name>sys_scope_privilege_f3968bf247600210c989b5f4316d4355</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-28 04:30:22</sys_updated_on><target_name>table delete</target_name><target_scope display_value="Global">global</target_scope><target_type>sys_db_object</target_type></sys_scope_privilege></record_update>]]></payload>
+        <payload_hash>-1967468836</payload_hash>
+        <record_name>table delete</record_name>
+        <reverted_from/>
+        <source>135f636a47200210c989b5f4316d4332</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-28 04:30:22</sys_created_on>
+        <sys_id>baa64bf247600210c989b5f4316d4372</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18dedfa53fd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-28 04:30:22</sys_updated_on>
+        <type>Cross scope privilege</type>
+        <update_guid>bea64bf2976002106c8294bc75da0071</update_guid>
+        <update_guid_history>bea64bf2976002106c8294bc75da0071:-1967468836</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-28 04:42:18</sys_created_on>
+        <sys_db_object display_value="" name="sys_scope_privilege">sys_scope_privilege</sys_db_object>
+        <sys_id>8a34cbadbc324fb0be0f2f2537887100</sys_id>
+        <sys_metadata>f3968bf247600210c989b5f4316d4355</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>table delete</sys_name>
+        <sys_package display_value="Rent A Car" source="x_1298283_rent_a_c">802342c8472002106b581af2e16d43a1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Rent A Car">802342c8472002106b581af2e16d43a1</sys_scope>
+        <sys_scope_delete display_value="">784e910fd96a4dfab076c1be54ed1784</sys_scope_delete>
+        <sys_update_name>sys_scope_privilege_f3968bf247600210c989b5f4316d4355</sys_update_name>
+        <sys_update_version display_value="sys_scope_privilege_f3968bf247600210c989b5f4316d4355">baa64bf247600210c989b5f4316d4372</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-28 04:42:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

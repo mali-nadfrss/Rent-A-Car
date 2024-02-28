@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="DELETE">
+        <operation>execute</operation>
+        <source_scope display_value="Rent A Car">802342c8472002106b581af2e16d43a1</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>abel.tuter</sys_created_by>
+        <sys_created_on>2024-02-28 04:11:04</sys_created_on>
+        <sys_id>9c42c7be47200210c989b5f4316d43f4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GlideRecord.insert</sys_name>
+        <sys_package display_value="Rent A Car" source="x_1298283_rent_a_c">802342c8472002106b581af2e16d43a1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rent A Car">802342c8472002106b581af2e16d43a1</sys_scope>
+        <sys_update_name>sys_scope_privilege_9c42c7be47200210c989b5f4316d43f4</sys_update_name>
+        <sys_updated_by>abel.tuter</sys_updated_by>
+        <sys_updated_on>2024-02-28 04:11:04</sys_updated_on>
+        <target_name>GlideRecord.insert</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>scriptable</target_type>
+    </sys_scope_privilege>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Rent A Car">802342c8472002106b581af2e16d43a1</application>
+        <file_path/>
+        <instance_id>d8b4c8dd1b12bd1c39a54089bd4bcb8a</instance_id>
+        <instance_name>dev201946</instance_name>
+        <name>sys_scope_privilege_9c42c7be47200210c989b5f4316d43f4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>execute</operation><source_scope display_value="Rent A Car">802342c8472002106b581af2e16d43a1</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>abel.tuter</sys_created_by><sys_created_on>2024-02-28 04:11:04</sys_created_on><sys_id>9c42c7be47200210c989b5f4316d43f4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>GlideRecord.insert</sys_name><sys_package display_value="Rent A Car" source="x_1298283_rent_a_c">802342c8472002106b581af2e16d43a1</sys_package><sys_policy/><sys_scope display_value="Rent A Car">802342c8472002106b581af2e16d43a1</sys_scope><sys_update_name>sys_scope_privilege_9c42c7be47200210c989b5f4316d43f4</sys_update_name><sys_updated_by>abel.tuter</sys_updated_by><sys_updated_on>2024-02-28 04:11:04</sys_updated_on><target_name>GlideRecord.insert</target_name><target_scope display_value="Global">global</target_scope><target_type>scriptable</target_type></sys_scope_privilege></record_update>]]></payload>
+        <payload_hash>1406390689</payload_hash>
+        <record_name>GlideRecord.insert</record_name>
+        <reverted_from/>
+        <source>387e48e8d9b13110cedf7dffddb48f09</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>abel.tuter</sys_created_by>
+        <sys_created_on>2024-02-28 04:11:04</sys_created_on>
+        <sys_id>1c42c7be47200210c989b5f4316d43f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18dede8aa570000001</sys_recorded_at>
+        <sys_updated_by>abel.tuter</sys_updated_by>
+        <sys_updated_on>2024-02-28 04:11:04</sys_updated_on>
+        <type>Cross scope privilege</type>
+        <update_guid>1042c7be9a200210c6fba09e22aeedf6</update_guid>
+        <update_guid_history>1042c7be9a200210c6fba09e22aeedf6:1406390689</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>abel.tuter</sys_created_by>
+        <sys_created_on>2024-02-28 04:43:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_scope_privilege">sys_scope_privilege</sys_db_object>
+        <sys_id>077501f85c024f3080d344aebaa528b9</sys_id>
+        <sys_metadata>9c42c7be47200210c989b5f4316d43f4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GlideRecord.insert</sys_name>
+        <sys_package display_value="Rent A Car" source="x_1298283_rent_a_c">802342c8472002106b581af2e16d43a1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Rent A Car">802342c8472002106b581af2e16d43a1</sys_scope>
+        <sys_scope_delete display_value="">784e910fd96a4dfab076c1be54ed1784</sys_scope_delete>
+        <sys_update_name>sys_scope_privilege_9c42c7be47200210c989b5f4316d43f4</sys_update_name>
+        <sys_update_version display_value="sys_scope_privilege_9c42c7be47200210c989b5f4316d43f4">1c42c7be47200210c989b5f4316d43f6</sys_update_version>
+        <sys_updated_by>abel.tuter</sys_updated_by>
+        <sys_updated_on>2024-02-28 04:43:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
