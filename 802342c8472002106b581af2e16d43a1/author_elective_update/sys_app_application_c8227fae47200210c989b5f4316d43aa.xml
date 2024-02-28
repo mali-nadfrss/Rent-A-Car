@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>List your Car</name>
+        <order>100</order>
+        <roles>x_1298283_rent_a_c.renter_car_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-27 13:01:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c8227fae47200210c989b5f4316d43aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>List your Car</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Rent A Car" source="x_1298283_rent_a_c">802342c8472002106b581af2e16d43a1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rent A Car">802342c8472002106b581af2e16d43a1</sys_scope>
+        <sys_update_name>sys_app_application_c8227fae47200210c989b5f4316d43aa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-27 13:01:45</sys_updated_on>
+        <title>List your Car</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Rent A Car">802342c8472002106b581af2e16d43a1</application>
+        <file_path/>
+        <instance_id>d8b4c8dd1b12bd1c39a54089bd4bcb8a</instance_id>
+        <instance_name>dev201946</instance_name>
+        <name>sys_app_application_c8227fae47200210c989b5f4316d43aa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name>List your Car</name><order>100</order><roles>x_1298283_rent_a_c.renter_car_user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-27 13:01:45</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c8227fae47200210c989b5f4316d43aa</sys_id><sys_mod_count>0</sys_mod_count><sys_name>List your Car</sys_name><sys_overrides/><sys_package display_value="Rent A Car" source="x_1298283_rent_a_c">802342c8472002106b581af2e16d43a1</sys_package><sys_policy/><sys_scope display_value="Rent A Car">802342c8472002106b581af2e16d43a1</sys_scope><sys_update_name>sys_app_application_c8227fae47200210c989b5f4316d43aa</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-27 13:01:45</sys_updated_on><title>List your Car</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>291236849</payload_hash>
+        <record_name>List your Car</record_name>
+        <reverted_from/>
+        <source>135f636a47200210c989b5f4316d4332</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-27 13:01:45</sys_created_on>
+        <sys_id>08227fae47200210c989b5f4316d43ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18deaa828c10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-27 13:01:45</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>0c227fae872002100372155d618d21ac</update_guid>
+        <update_guid_history>0c227fae872002100372155d618d21ac:291236849</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="List your Car">c0b23bee47200210c989b5f4316d43c4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-27 13:04:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>1850616665e044ac8a7986216fa63b69</sys_id>
+        <sys_metadata>c8227fae47200210c989b5f4316d43aa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>List your Car</sys_name>
+        <sys_package display_value="Rent A Car" source="x_1298283_rent_a_c">802342c8472002106b581af2e16d43a1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Rent A Car">802342c8472002106b581af2e16d43a1</sys_scope>
+        <sys_scope_delete display_value="">784e910fd96a4dfab076c1be54ed1784</sys_scope_delete>
+        <sys_update_name>sys_app_application_c8227fae47200210c989b5f4316d43aa</sys_update_name>
+        <sys_update_version display_value="sys_app_application_c8227fae47200210c989b5f4316d43aa">08227fae47200210c989b5f4316d43ad</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-27 13:04:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
